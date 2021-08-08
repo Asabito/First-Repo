@@ -1,2 +1,3 @@
 My First Repository
 Check point 1
+Check point 2
